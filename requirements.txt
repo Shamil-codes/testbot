@@ -1,1 +1,1 @@
-PyInstaller==4.0.dev0+1eadfa55f2
+pyTelegramBotAPI==3.6.7
